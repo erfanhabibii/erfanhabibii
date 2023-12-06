@@ -24,4 +24,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-white)](mailto:erfanhabibi26.12@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-red)](https://instagram.com/erfan.habibi?igshid=OGQ5ZDc2ODk2ZA==)
 [![Telegram](https://img.shields.io/badge/Telegram-blue)](https://t.me/habibierfan)
-[![Tel](https://img.shields.io/badge/Phone-green)](tel:09134784608)

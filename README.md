@@ -4,17 +4,16 @@
 </div> 
 
 ### I am erfan habibi
-- I was born in 26/12/2000, I live in sirjan
 - I'm a web developer
 - I'm specialize in `front-end` work
 - and I have 2 years of design experience
 - In my free time, I watch tutorials and read technical articles.
-- I'm learning Javascript language
+- I'm learning React library
 
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,python,figma,xd,photoshop,illustrator,premiere" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,python,figma,xd,photoshop,illustrator,premiere" />
   </a>
 </p>
 

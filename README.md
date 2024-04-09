@@ -13,7 +13,7 @@
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,typescript,python,figma,xd,photoshop,illustrator,premiere" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,typescript,redux,python,figma,xd,photoshop,illustrator,premiere" />
   </a>
 </p>
 

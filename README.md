@@ -8,7 +8,7 @@
 - I'm specialize in `front-end` work
 - and I have 2 years of design experience
 - In my free time, I watch tutorials and read technical articles.
-- I'm learning React library
+- I'm learning Web Security
 
 ## Skills
 <p align="center">

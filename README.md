@@ -4,9 +4,9 @@
 </div> 
 
 ### I am erfan habibi
-- I'm a web developer
-- I'm specialize in `front-end` work
-- and I have 2 years of design experience
+- I'm a Senior web developer
+- I'm specialize in `Front-end` work
+- and I have 3 years of design experience
 - In my free time, I watch tutorials and read technical articles.
 - I'm learning Web Security
 

@@ -1,19 +1,16 @@
 <div id="header" align="center">
   <h1>wellcome to my account</h1>
-  <img src="https://camo.githubusercontent.com/7ed4dcd6b92f01d24c2c74c7ed3e3cec12fc016c1e2e2875ec802cb5a217c9f9/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f336b50446d6f5764427051504e68436e55472f67697068792e676966" width="300px"/>
 </div> 
 
 ### I am erfan habibi
-- I'm a Senior web developer
-- I'm specialize in `Front-end` work
-- and I have 3 years of design experience
-- In my free time, I watch tutorials and read technical articles.
-- I'm learning Web Security
+Web Developer with expertise in Next.js, TypeScript, and modern frontend technologies. With 3 years of experience in graphic design, I bring a strong understanding of user-centered design principles to my work in web development.
+
+Completed OWASP security training at Voorivex Academy, focusing on bug hunting and web application security. Dedicated to building secure, scalable, and user-centric web solutions.
 
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,redux,typescript,nextjs,python,figma,xd,photoshop,illustrator,premiere" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,redux,typescript,nextjs,python,go,php,linux,bash,mongodb,mysql,nodejs,expressjs,npm,docker,git,github,postman,figma,xd,photoshop,illustrator,premiere" />
   </a>
 </p>
 

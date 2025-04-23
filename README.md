@@ -10,7 +10,7 @@ Completed OWASP security training at Voorivex Academy, focusing on bug hunting a
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,redux,typescript,nextjs,python,go,php,linux,bash,mongodb,mysql,nodejs,expressjs,npm,docker,git,github,postman,figma,xd,photoshop,illustrator,premiere" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,redux,typescript,nextjs,python,go,php,linux,bash,mongodb,mysql,nodejs,expressjs,npm,docker,git,github,postman,nestjs,postgresql,prisma,figma,xd,photoshop,illustrator,premiere" />
   </a>
 </p>
 
@@ -21,4 +21,5 @@ Completed OWASP security training at Voorivex Academy, focusing on bug hunting a
   <a href="https://instagram.com/erfan.habibi?igshid=OGQ5ZDc2ODk2ZA=="><img src="https://img.shields.io/badge/Instagram-white?style=flat&logo=instagram" /></a>
   <a href="mailto:erfanhabibi26.12@gmail.com"><img src="https://img.shields.io/badge/Gmail-ffcdd2?style=flat&logo=gmail" /></a>
   <a href="https://t.me/habibierfan"><img src="https://img.shields.io/badge/Telegram-white?style=flat&logo=telegram" /></a>
+  <a href="https://zerotix.ir/"><img src="https://img.shields.io/badge/Website-green?style=flat&logo=website" /></a>
 </div>

@@ -3,14 +3,20 @@
 </div> 
 
 ### I am erfan habibi
-Web Developer with expertise in Next.js, TypeScript, and modern frontend technologies. With 3 years of experience in graphic design, I bring a strong understanding of user-centered design principles to my work in web development.
+Front-End Developer specialized in modern web technologies including Next.js, React, and TypeScript — with 3+ years of experience in graphic design and strong UI/UX evaluation skills.
 
-Completed OWASP security training at Voorivex Academy, focusing on bug hunting and web application security. Dedicated to building secure, scalable, and user-centric web solutions.
+My main focus is building fast, scalable, and user-centered interfaces. I’ve also gained hands-on full-stack experience by building a complete application using NestJS, PostgreSQL, and MongoDB — mainly to deepen my understanding of backend systems and architecture.
 
+Completed OWASP training at Voorivex Academy with a focus on bug hunting and secure web development practices.
+
+Currently leading Zerotix Technologies, a tech company that helps clients transform raw ideas into fully functional digital products — from ideation to launch. 
+Open to freelance projects and short-term technical collaborations.
+
+Let’s build something exceptional — clean code, clean UI, clean delivery.
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,redux,typescript,nextjs,python,go,php,linux,bash,mongodb,mysql,nodejs,expressjs,npm,docker,git,github,postman,nestjs,postgresql,prisma,figma,xd,photoshop,illustrator,premiere" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,redux,typescript,nextjs,python,go,php,linux,bash,mongodb,mysql,nodejs,expressjs,npm,docker,git,github,postman,nestjs,postgresql,prisma,angular,vuejs,jest,figma,xd,photoshop,illustrator,premiere" />
   </a>
 </p>
 

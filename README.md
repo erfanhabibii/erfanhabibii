@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <h1>wellcome to my account</h1>
+   <img src="https://docs.iconsax.io/_vercel/image?url=%2Fgifs2%2Fkeyboard-coffe.gif&w=1536&q=100" width="400px"/>
 </div> 
 
 ### I am erfan habibi
@@ -16,7 +17,7 @@ Let’s build something exceptional — clean code, clean UI, clean delivery.
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,redux,typescript,nextjs,python,go,php,linux,bash,mongodb,mysql,nodejs,expressjs,npm,docker,git,github,postman,nestjs,postgresql,prisma,angular,vuejs,jest,figma,xd,photoshop,illustrator,premiere" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,redux,typescript,nextjs,python,go,php,linux,bash,mongodb,mysql,nodejs,expressjs,npm,docker,git,github,postman,nestjs,postgresql,prisma,angular,vuejs,jest,redis,kafka,figma,xd,photoshop,illustrator,premiere" />
   </a>
 </p>
 

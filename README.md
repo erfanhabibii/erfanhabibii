@@ -4,20 +4,25 @@
 </div> 
 
 ### I am erfan habibi
-Front-End Developer specialized in modern web technologies including Next.js, React, and TypeScript — with 3+ years of experience in graphic design and strong UI/UX evaluation skills.
+Full-Stack & DevSecOps Engineer with a strong focus on backend development, application security, and cloud-native infrastructure.
 
-My main focus is building fast, scalable, and user-centered interfaces. I’ve also gained hands-on full-stack experience by building a complete application using NestJS, PostgreSQL, and MongoDB — mainly to deepen my understanding of backend systems and architecture.
+Specialized in NestJS, Next.js, TypeScript, Docker, Kubernetes, and OWASP security practices, I design and build scalable, secure, and high-performance systems from the ground up.
 
-Completed OWASP training at Voorivex Academy with a focus on bug hunting and secure web development practices.
+My work spans end-to-end product development — from backend architecture, API design, and microservices, to CI/CD automation and integrating security into every stage of the DevOps lifecycle (DevSecOps).
 
-Currently leading Zerotix Technologies, a tech company that helps clients transform raw ideas into fully functional digital products — from ideation to launch. 
-Open to freelance projects and short-term technical collaborations.
+Founder of Zerotix Technologies, leading projects that transform ideas into reliable digital products. Experienced in handling full-cycle deployments, optimizing performance, and applying OWASP-based security testing to protect applications from real-world threats.
 
-Let’s build something exceptional — clean code, clean UI, clean delivery.
+Core strengths:
+Backend Engineering & API Development
+DevSecOps & Infrastructure Automation
+Secure Coding & OWASP Guidelines
+Microservices & Distributed Systems
+
+Passionate about clean code, secure design, and operational excellence — always aiming to deliver software that’s fast, reliable, and built to last.
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,redux,typescript,nextjs,python,go,php,linux,bash,mongodb,mysql,nodejs,expressjs,npm,docker,git,github,postman,nestjs,postgresql,prisma,angular,vuejs,jest,redis,kafka,figma,xd,photoshop,illustrator,premiere" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,redux,typescript,nextjs,python,go,php,linux,bash,mongodb,mysql,nodejs,expressjs,npm,docker,git,github,postman,nestjs,postgresql,prisma,angular,vuejs,jest,redis,kafka" />
   </a>
 </p>
 
